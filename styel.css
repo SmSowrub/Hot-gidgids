@@ -1,0 +1,19 @@
+
+.light-grey{
+    color: darkcyan;
+}
+.container{
+    margin-bottom: 40px;
+}
+.bgc{
+    background-color: lightgrey;
+  border-radius: 10px;
+}
+
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    color:aqua;
+}
