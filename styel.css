@@ -17,3 +17,35 @@
     border-radius: 50%;
     color:aqua;
 }
+.red{
+    color: brown;
+}
+.card{
+    
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: -2px 5px 10px lightslategray;
+}
+#hight{
+    margin: 0 auto;
+    width: 100%;
+    height: 50%;
+}
+.Categories{
+    width: 200px;
+    border-bottom: 3px solid orange;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.last{
+    background-color: antiquewhite;
+}
+.lastSide img{
+    width: 80%;
+    
+}
+.imes{
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
